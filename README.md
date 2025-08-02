@@ -1,6 +1,5 @@
 👋 Hey there, I'm @spmshakti, a digital explorer navigating the vast landscape of cyberspace!
 👀 I'm captivated by the convergence of technology and creativity, always on the lookout for innovative solutions and inspiring ideas that push the boundaries of what's possible.
-🌱 Currently, I'm immersing myself in the boundless world of data science, mastering the art of extracting insights from complex datasets and crafting meaningful narratives through visualization.
 💞️ I'm eager to collaborate on projects that blend technology with social impact, leveraging our collective skills to make a positive difference in the world. Let's combine our talents and create something truly impactful together!
 📫 Reach out to me through the digital ether—I'm just a message away! Whether it's discussing the latest tech trends, brainstorming project ideas, or simply sharing a virtual high-five, I'm always up for a chat.
 😄 Pronouns: Tech enthusiast, data wrangler, problem-solving aficionado!
